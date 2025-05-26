@@ -1,4 +1,4 @@
-YT-OldVer: 20.10.40  
+YT-OldVer: 19.50.41  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK  
 
