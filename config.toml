@@ -8,11 +8,12 @@ parallel-jobs = 1
 
 [YouTube-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "MarcaDian/revanced-patches"
-integrations-source = "revanced/revanced-integrations"
-cli-source = "revanced/revanced-cli"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced"
 patches-version = "dev"
 build-mode = "both"
-version = "20.28.37"
-patcher-args = "-e 'GmsCore support' -OgmsCoreVendorGroupId=igor3k99.youtube.revanced"
+version = "20.44.36"
+patcher-args = "-e 'GmsCore support' -OgmsCoreVendorGroupId=app.revanced -OpackageNameYouTube=anddea.youtube -OpackageNameYouTubeMusic=anddea.youtube.music"
+excluded-patches = "'Description components' 'Hide action buttons' 'Hide player flyout menu' 'Player components' 'Miniplayer' 'Shorts components'"
