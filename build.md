@@ -1,4 +1,4 @@
-YouTube-dev: 20.28.37  
+YouTube-dev: 20.44.36  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK  
 
@@ -6,6 +6,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 
 [YouTube-ReVanced-dev](https://github.com/IGOR3K99/YouTube-ReVanced-dev)
   
-CLI: revanced/revanced-cli-5.0.1-all.jar  
-Patches: MarcaDian/patches-5.46.0-dev.2.rvp  
-[Changelog](https://github.com/MarcaDian/revanced-patches/releases/tag/test2)  
+CLI: inotia00/revanced-cli-5.0.1-all.jar  
+Patches: anddea/patches-3.15.0-dev.1.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.1)  
